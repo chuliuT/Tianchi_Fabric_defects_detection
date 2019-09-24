@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 # MMDetection
 
@@ -148,3 +149,7 @@ If you use this toolbox or benchmark in your research, please cite this project.
 ## Contact
 
 This repo is currently maintained by Kai Chen ([@hellock](http://github.com/hellock)), Jiangmiao Pang ([@OceanPang](https://github.com/OceanPang)), Jiaqi Wang ([@myownskyW7](https://github.com/myownskyW7)) and Yuhang Cao ([@yhcao6](https://github.com/yhcao6)).
+=======
+# Tianchi_data_aug
+normal-data-augmentation
+>>>>>>> 07584541bbba36e48c7cc85c8e20a463b797d2f1
