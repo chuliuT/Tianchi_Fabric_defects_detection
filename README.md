@@ -1,5 +1,22 @@
-<<<<<<< HEAD
+# This my first time participate in TianChi chanllege!
+# first TestB Rank：85/2714
 
+## Install
+fellow the mmdetection install.md
+
+## Data format
+In my experiment COCO,VOC changed by yourself!
+
+## COCO pretrained model transfer
+the transfer code in check points   num_class should modified your class
+
+notice!!! scale and ratios changed,I use a simple cat method for suitable model struct param avoid parameters initialize problem!
+
+## Training
+```python3 configs/cascade_rcnn_r101_fpn_1x_with_coco.py  --gpus 1 work_dir XXXXXX(your path to save model and train log)```
+
+## Test
+```python3 cascade_rcnn_r101_fpn_1x_test_coco.py```
 # MMDetection
 
 **News**: We released the technical report on [ArXiv](https://arxiv.org/abs/1906.07155).
@@ -150,6 +167,4 @@ If you use this toolbox or benchmark in your research, please cite this project.
 
 This repo is currently maintained by Kai Chen ([@hellock](http://github.com/hellock)), Jiangmiao Pang ([@OceanPang](https://github.com/OceanPang)), Jiaqi Wang ([@myownskyW7](https://github.com/myownskyW7)) and Yuhang Cao ([@yhcao6](https://github.com/yhcao6)).
 =======
-# Tianchi_data_aug
-normal-data-augmentation
->>>>>>> 07584541bbba36e48c7cc85c8e20a463b797d2f1
+
