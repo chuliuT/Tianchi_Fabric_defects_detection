@@ -1,4 +1,4 @@
-# This my first time participate in TianChi chanllege!
+# This my first time participate in TianChi challenge!
 # first TestB Rank：85/2714
 
 ## Install
